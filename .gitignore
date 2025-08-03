@@ -1,0 +1,40 @@
+# React Native (client)
+client/node_modules/
+client/.expo/
+client/.env
+client/dist/
+client/build/
+
+# Flask (server)
+server/__pycache__/
+server/instance/
+server/.env
+server/.venv/
+server/.pytest_cache/
+server/.mypy_cache/
+server/.coverage
+server/.DS_Store
+server/.vscode/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# General
+.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# macOS
+*.DS_Store
+
+# VS Code
+.vscode/
+
+# Others
+*.swp
+*.swo
